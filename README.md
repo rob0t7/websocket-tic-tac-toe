@@ -49,4 +49,4 @@ is [WS](https://github.com/websockets/ws)!
 ## DEMO
 
 For the demo we created a tic tac toe game that allows two players to
-play against each other. You can find the code at (
+play against each other. You can find the code at (https://github.com/rob0t7/websocket-tic-tac-toe)
